@@ -1,0 +1,6 @@
+{
+  "name": "Turing Structure Explorer",
+  "description": "A high-performance simulator for a 9-state, 10-symbol Turing Machine. Search the behavior space to find massive, complex generative structures across time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
